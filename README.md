@@ -1,1 +1,1 @@
-# pwuas
+# scriptriz-jobportal-website-template.github.io
