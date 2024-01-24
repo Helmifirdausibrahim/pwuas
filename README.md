@@ -1,1 +1,0 @@
-# scriptriz-jobportal-website-template.github.io
